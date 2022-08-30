@@ -71,6 +71,11 @@ h1 {
     margin-bottom: 1.25rem;
 }
 
+.product {
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
 .description {
     line-height: 1.6;
     margin-bottom: 1.75rem;
