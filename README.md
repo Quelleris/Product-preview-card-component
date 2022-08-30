@@ -1,3 +1,7 @@
 # Product-preview-card-component
 
-My solution to the product preview card component challenge on Frontend Mentor.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+### Links
+- Solution URL: https://github.com/Quelleris/Product-preview-card-component
+- Live Site URL: https://quelleris-product-preview-card.netlify.app
